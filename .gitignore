@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# add
+/.idea
+/*.iml
+*/.settings
+/target/
+*.prefs
+.factorypath
+.springBeans
+.classpath
+.project
+/.metadata/
+.idea/
+*.iml
+target/
+rebel.xml
+.DS_Store
+*/.DS_Store
+out

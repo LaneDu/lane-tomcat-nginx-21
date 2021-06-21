@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app  >
+
+   <!-- <servlet>
+        <servlet-name>demo</servlet-name>
+        <servlet-class>com.lane.servlet.DemoServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>demo</servlet-name>
+        <url-pattern>/demo</url-pattern>
+    </servlet-mapping>-->
+
+    <servlet>
+        <servlet-name>myServlet</servlet-name>
+        <servlet-class>com.lane.servlet.MyServlet</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>myServlet</servlet-name>
+        <url-pattern>/myServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
